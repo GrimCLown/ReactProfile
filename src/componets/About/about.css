@@ -1,0 +1,62 @@
+
+.about_container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+
+}
+
+.about_cards{
+    display: flex;
+    justify-content: center;
+}
+
+.about_content{
+
+    margin: 100px;
+
+}
+
+
+p{
+margin: 20px;
+text-align:justify;
+text-justify:values;
+}
+
+.about_card{
+    background: #f74252;
+    border: 1px solid #000000;
+    border-radius: 1rem;
+    padding: 5rem;
+    text-align: center;
+    transition: var(--transition);
+}
+
+.getToKnow{
+    display: grid;
+    justify-content: center;
+    padding-top: 100px;
+}
+.getTO{
+    display: flex;
+    justify-content: center;
+}
+
+.about_card:hover{
+    background: transparent;
+    border-color:  #f74252;
+}
+
+@media screen and (max-width: 1024px) {
+
+}
+@media screen and (max-width: 600px) {
+
+    .about_content{
+        margin: 100px;
+    }
+
+    
+}

@@ -1,0 +1,55 @@
+.contact__container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;  
+
+}
+
+.container.contact__container{
+    width: 58%;
+    display: grid;
+    grid-template-columns: 30% 58%;
+    gap:12%;
+    padding-top: 100px;
+}
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+input, textarea{
+    width: 100%;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    background: white;
+    border: 2px solid #f74252;
+    resize: none;
+    color: black;
+}
+.Getintouch{
+   padding-top: 5rem;
+}
+@media screen and (max-width: 600px) {
+
+    .container.contact__container{
+
+        grid-template-columns:1fr;
+        padding-top: 0  ;
+        gap:0.5rem;
+    }
+    .Getintouch{
+    
+        padding-top: 1rem;
+     }
+    
+}
+.sendAMessage{
+    height: 0;
+}
+
+.container.contact__container > div {
+    padding: 1rem;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GrimCLown/profile.git/static/css/main.91c66fe9.css",
+    "main.js": "/GrimCLown/profile.git/static/js/main.b383af24.js",
+    "static/media/ck.jpg": "/GrimCLown/profile.git/static/media/ck.127f992ac9fbd86ed63d.jpg",
+    "static/media/ck.png": "/GrimCLown/profile.git/static/media/ck.5169a68408bff9796a61.png",
+    "static/media/CV.pdf": "/GrimCLown/profile.git/static/media/CV.653664254de1d069229e.pdf",
+    "static/media/texture3.png": "/GrimCLown/profile.git/static/media/texture3.47bcb083aba270cb7853.png",
+    "index.html": "/GrimCLown/profile.git/index.html",
+    "main.91c66fe9.css.map": "/GrimCLown/profile.git/static/css/main.91c66fe9.css.map",
+    "main.b383af24.js.map": "/GrimCLown/profile.git/static/js/main.b383af24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c66fe9.css",
+    "static/js/main.b383af24.js"
+  ]
+}
